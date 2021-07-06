@@ -4,4 +4,6 @@ The UFO webpage and dynamic table developed during the intitial phase were funct
 # Results
 
 
+![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableDefault.PNG "Title")
+
 # Summary
