@@ -22,3 +22,10 @@ The UFO sightings results will be filtered down to occurances of spherical UFOs 
 ![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableCrit02ShapeResults.PNG "Title")
 
 # Summary
+
+## Drawbacks
+One drawback of this design is the requirement for users to type the criteria in the selected field. This creates the potential for data entry error in the form of mispellings or improperly formatted information.
+
+## Recommendations
+* Drop-down lists for each filtering option would greatly improve the webpage. Upon selecting an option in a drop down list, the data table would be filtered to the respective results.
+* A "Clear Form" button would be helpful in resetting the filtering form and data table. The button would be located below the form so users could find it easily.
