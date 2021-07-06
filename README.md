@@ -4,6 +4,11 @@ The UFO webpage and dynamic table developed during the intitial phase were funct
 # Results
 
 
+![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOhome.PNG "Title")
 ![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableDefault.PNG "Title")
+![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableCrit01State.PNG "Title")
+![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableCrit01StateResults.PNG "Title")
+![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableCrit02Shape.PNG "Title")
+![Alt text](https://github.com/geboweniii/UFOs/blob/main/static/images/UFOTableCrit02ShapeResults.PNG "Title")
 
 # Summary
